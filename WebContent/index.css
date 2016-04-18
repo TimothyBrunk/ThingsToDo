@@ -1,0 +1,62 @@
+
+
+
+body{ /* background photo */
+	background-image: url("http://www.freestockphotosclub.com/wp-content/uploads/2011/06/Nature-Soft-Clouds-Still-Photo-520x390.jpg");
+	background-repeat:no-repeat; 
+	background-size: 100%; 
+}
+button {
+	text-align:center;
+}
+.edit{
+	text-align:center;
+}
+.head { /* setting and aligning the text for the header  */
+	text-align:center; 
+	font-family: 'Josefin Slab', serif;
+	font-size:350%
+}
+.smallhead { /* setting and aligning the text for the subtitle */
+	text-align:center; 
+	font-family: 'Josefin Slab', serif;
+	font-size:150@;
+	
+}
+.dropdown { /* setting the dropdown menus  */
+	text-align:center; 
+	
+}
+select { /* setting the dimentions for the dropdown menus! */
+    min-width:265px;
+    min-height: 45px;
+    border-width: 3px;
+    border-color: rgba(50, 50, 50, 0.14);
+    margin: 10px 10px 10px 0px;
+}
+hr { /* sets the hr paramteres  */
+	align
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+}
+.list { /* this class sets the font and the alignment for the list class  */
+	text-align:center; 
+	font-family:Josefin Slab', serif;
+}
+form{
+	text-align:center;
+	vertical-;
+}
+.AddTask{
+	text-align:center;
+}
+.home{
+	
+}
+a {
+	text-align:center;
+}
